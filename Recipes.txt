@@ -1,5 +1,7 @@
 Welcome to recipes.
 Chicken fry
 
+Beans
+Pizza
 
 Thank you
